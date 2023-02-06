@@ -52,7 +52,7 @@
     "@homebridge/plugin-ui-utils": "^0.0.19",
     "aws-iot-device-sdk": "^2.2.11",
     "axios": "^0.24.0",
-    "p-queue": "^6.6.2"
+    "p-queue": "^7.3.3"
   },
   "optionalDependencies": {
     "@abandonware/bluetooth-hci-socket": "^0.5.3-8",
